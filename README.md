@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+我是一只无聊的小白兔
